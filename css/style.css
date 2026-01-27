@@ -18,10 +18,13 @@ header {
 header h1 {
   color: #ff004c;
   letter-spacing: 2px;
+  font-family: "Orbitron", sans-serif;
 }
 
-header h1 {
-  font-family: "Orbitron", sans-serif;
+header h1 a {
+  color: #ff004c;
+  text-decoration: none;
+  letter-spacing: 1px;
 }
 
 /* ナビゲーション */
