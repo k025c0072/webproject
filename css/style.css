@@ -20,6 +20,10 @@ header h1 {
   letter-spacing: 2px;
 }
 
+header h1 {
+  font-family: "Orbitron", sans-serif;
+}
+
 /* ナビゲーション */
 nav {
   margin-top: 10px;
